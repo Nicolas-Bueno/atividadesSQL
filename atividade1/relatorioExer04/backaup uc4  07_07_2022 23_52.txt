@@ -1,0 +1,24 @@
+08/07/2022 02:52 Iniciando job "backaup uc4 " - "Full". Computador "DESKTOP-UB9QONE". App v."12.7.0" 
+08/07/2022 02:52 Connecting to "MySQL Server": "localhost". 
+08/07/2022 02:52 Connected to "(8.0.27)". 
+08/07/2022 02:52 A pasta de backup "C:\Windows\TEMP\SISTEMA\Pranas.NET\SBF\19165d55-1238-49b9-a8a3-3d57811915d1\backup" tem "3,737GB" de espaco livre. A pasta temporária "C:\Windows\TEMP\SISTEMA\Pranas.NET\SBF\19165d55-1238-49b9-a8a3-3d57811915d1" tem "3,737GB" de espaco livre. 
+08/07/2022 02:52 Backing up "localhost" databases with "mysqldump.exe: 8.0.28.0" 
+08/07/2022 02:52 The maximum file size for destination "Google Drive: Nicolas Bueno": "4,768TB". 
+08/07/2022 02:52 Backing up "uc4atividades" with "Full" backup type. 
+08/07/2022 02:52 O banco de dados "uc4atividades" foi copiado com sucesso para "C:\Windows\TEMP\SISTEMA\Pranas.NET\SBF\19165d55-1238-49b9-a8a3-3d57811915d1\backup\uc4atividades202207072352.sql" : 6,842KB" 
+08/07/2022 02:52 Comprimindo o arquivo "C:\Windows\TEMP\SISTEMA\Pranas.NET\SBF\19165d55-1238-49b9-a8a3-3d57811915d1\backup\uc4atividades202207072352.sql" com arquivador Interno Criptografia: "Desligado" 
+08/07/2022 02:52 Cópia de "uc4atividades" comprimida com sucesso para "(uc4atividades202207072352.zip : 1,802KB)" 
+08/07/2022 02:52 Conectando ao destino "Google Drive" "Nicolas Bueno" 
+08/07/2022 02:52 O destino atual da pasta é "" 
+08/07/2022 02:52 Enviando backup de "uc4atividades" para o destino "Google Drive" "Nicolas Bueno" 
+08/07/2022 02:52 Carregando "uc4atividades202207072352.zip" local para remoto "uc4atividades202207072352.zip" na pasta "" 
+08/07/2022 02:52 Carregado 100.00 % (average speed = 775 B/s) 
+08/07/2022 02:52 Verificando o arquivo remoto "uc4atividades202207072352.zip" com o local "uc4atividades202207072352.zip" 
+08/07/2022 02:52 Desconectando do destino "Google Drive" "Nicolas Bueno" 
+08/07/2022 02:52 Limpando backups no job "backaup uc4 " 
+08/07/2022 02:52 Limpando backups de "uc4atividades" banco de dados em "Google Drive" destino "Nicolas Bueno" 
+08/07/2022 02:52 Cleanup of "uc4atividades" completed. 
+08/07/2022 02:52 Deleting temporary files. 
+08/07/2022 02:52 Job "backaup uc4 " finalizado 
+08/07/2022 02:53 Enviando histórico do job para nicolasbuenowork@gmail.com 
+08/07/2022 02:53 Enviando relatório para ${https://sqlbackupandftp.com/weblog?jobid=19165d55-1238-49b9-a8a3-3d57811915d1|Web Log} 
